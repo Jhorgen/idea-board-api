@@ -1,24 +1,35 @@
-# README
+# Idea board API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the backend to my Idea board react application. It manages Ideas created by a user and has full CRUD functionality.
 
-Things you may want to cover:
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-* Configuration
 
-* Database creation
+### Setup & Deployment
 
-* Database initialization
+You can view the live application here: http://murmuring-shore-14390.herokuapp.com/api/v1/ideas
 
-* How to run the test suite
+Or download and install it locally using npm.
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+$cd forum-api
+$bundle i
+$rake db:migrate
+$rails s
+``` 
 
-* Deployment instructions
+## Built With
 
-* ...
+* [Ruby on Rails](https://rubyonrails.org/)
+
+## Authors
+
+* **Josh Horgen**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
