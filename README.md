@@ -15,7 +15,7 @@ You can view the live application here: http://murmuring-shore-14390.herokuapp.c
 Or download and install it locally.
 
 ```
-$cd forum-api
+$cd idea-board-api
 $bundle i
 $rake db:migrate
 $rails s
