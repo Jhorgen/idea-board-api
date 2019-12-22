@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You can view the live application here: http://murmuring-shore-14390.herokuapp.com/api/v1/ideas
 
-Or download and install it locally using npm.
+Or download and install it locally.
 
 ```
 $cd forum-api
